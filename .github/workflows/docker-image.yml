@@ -32,6 +32,6 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: jalena/17-jdk-alpine:latest
+          tags: jalena/17-jdk-alpine-cn:latest
 
         
